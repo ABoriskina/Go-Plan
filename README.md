@@ -100,9 +100,12 @@ Firebase Authentication, Firebase Realtime Database, Firebase Cloud Messaging, G
 <br>
 
 ### Получение запланированных уведомлений
+
 <br>
+
 Реализуется с помощью Cloud Messaging. В личном кабинете разработчика можно настраивать частоту отправления уведомлений на устройства пользователей, а также задавать разовую отправку.
 
 <br>
 
 ![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/20230520_172804.jpg)
+
