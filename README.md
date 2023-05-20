@@ -11,7 +11,7 @@ Go Plan - приложение планер, в функционал котор�
 <br>
 
 ## Стек технологий
-Firebase (Authentication), Firebase Realtime Database, Firebase Cloud Messaging, Gradle.
+Firebase Authentication, Firebase Realtime Database, Firebase Cloud Messaging, Gradle.
 <br>
 ## Превью
 
