@@ -12,6 +12,7 @@ Go Plan - приложение планер, в функционал котор�
 
 ## Стек технологий
 Firebase Authentication, Firebase Realtime Database, Firebase Cloud Messaging, Gradle.
+Среда разработки - IntelliJ IDEA с Android Studio Plugin. Язык - Java.
 <br>
 ## Превью
 
