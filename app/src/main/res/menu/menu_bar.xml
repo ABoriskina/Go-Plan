@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+            android:id="@+id/home_icon"
+            android:title="Домашняя страница"
+            android:icon="@drawable/ic_home"
+            app:showAsAction="ifRoom"/>
+
+    <item
+            android:id="@+id/bell_icon"
+            android:title="Уведомления"
+            android:icon="@drawable/ic_bell"
+            android:onClick="showNotifications"
+            app:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/list_icon"
+            android:title="Уведомления"
+            android:icon="@drawable/ic_todolist"
+            android:onClick="showEvents"
+            app:showAsAction="ifRoom"/>
+
+</menu>

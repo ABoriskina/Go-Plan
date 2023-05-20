@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160372729350",
+    "project_id": "go-plan-6b1f7",
+    "storage_bucket": "go-plan-6b1f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160372729350:android:27ccc14aee40a23e81c587",
+        "android_client_info": {
+          "package_name": "com.rgr.goplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160372729350-thvjupogjj511b6rvo98ags1op6p36nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rgr.goplan",
+            "certificate_hash": "d0005ab792afc5e2cde37b2b6a37a685735c0c2d"
+          }
+        },
+        {
+          "client_id": "160372729350-1s6ghnn3vmu6idegv5o11naivdnctmuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXPArHFyRgAYrXkyHygwWz3FzG-G4FfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160372729350-1s6ghnn3vmu6idegv5o11naivdnctmuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

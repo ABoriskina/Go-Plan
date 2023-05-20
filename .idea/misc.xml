@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1873873873873874" />
+        <entry key="app/src/main/res/drawable/dialog_round.xml" value="0.1671171171171171" />
+        <entry key="app/src/main/res/drawable/ic_bell.xml" value="0.31981981981981983" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.1698198198198198" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.30675675675675673" />
+        <entry key="app/src/main/res/drawable/ic_list.xml" value="0.1873873873873874" />
+        <entry key="app/src/main/res/drawable/ic_todolist.xml" value="0.1873873873873874" />
+        <entry key="app/src/main/res/drawable/light_rounded_back.xml" value="0.16801801801801802" />
+        <entry key="app/src/main/res/drawable/rounded_edit_text.xml" value="0.1671171171171171" />
+        <entry key="app/src/main/res/font/play_family.xml" value="0.3310810810810811" />
+        <entry key="app/src/main/res/layout/activity_event_manager.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_notifications.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_to_add_event.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_to_register.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/bottom_app_bar_menu.xml" value="0.3184684684684685" />
+        <entry key="app/src/main/res/layout/card_layout.xml" value="0.29144144144144146" />
+        <entry key="app/src/main/res/layout/dialog_layout.xml" value="0.30495495495495495" />
+        <entry key="app/src/main/res/layout/recyclerview_row.xml" value="0.2774774774774775" />
+        <entry key="app/src/main/res/layout/register_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/register_window.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/add_to_events_menu.xml" value="0.3184684684684685" />
+        <entry key="app/src/main/res/menu/bottom_app_bar.xml" value="0.3184684684684685" />
+        <entry key="app/src/main/res/menu/light_menu.xml" value="0.14954954954954955" />
+        <entry key="app/src/main/res/menu/light_menu_notif.xml" value="0.1981981981981982" />
+        <entry key="app/src/main/res/menu/menu_bar.xml" value="0.3184684684684685" />
+        <entry key="app/src/main/res/menu/notif_menu.xml" value="0.3184684684684685" />
+        <entry key="app/src/main/res/menu/pop_up_menu.xml" value="0.1990990990990991" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1698198198198198" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
