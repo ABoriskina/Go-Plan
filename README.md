@@ -50,7 +50,7 @@ Firebase Authentication, Firebase Realtime Database, Firebase Cloud Messaging, G
 
 <br>
 
-![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230522-212951_Go%20Plan.jpg)
+![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230522-214954_Go%20Plan.jpg)
 
 <br>
 
