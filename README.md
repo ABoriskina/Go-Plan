@@ -38,7 +38,7 @@ Firebase Authentication, Firebase Realtime Database, Firebase Cloud Messaging, G
 
 ### Регистрация пользвователя
 
-![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230520-090805_Go%20Plan.jpg)
+![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230522-214444_Go%20Plan.jpg)
 
 <br>
 
