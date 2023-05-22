@@ -26,6 +26,7 @@ Firebase Authentication, Firebase Realtime Database, Firebase Cloud Messaging, G
 ### Вход в приложение
 
 <br>
+
 Вход в приложение производится за счет Firebase Authentication. Установленный провайдер - электронная почта. Пароли пользователей не хранятся в прямом виде на стороне сервера, хранятся их хэши, 
 при авторизации хэши вычисленный и хранящийся сравниваются.
 
@@ -43,20 +44,41 @@ Firebase Authentication, Firebase Realtime Database, Firebase Cloud Messaging, G
 
 ### Главная страница приложения
 
-![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230520-091149_Go%20Plan.jpg)
+<br>
+
+При входе на главную страницу приложения, пользователь получает оповещение о новых уведомлениях.
+
+<br>
+
+![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230522-212951_Go%20Plan.jpg)
+
+<br>
+
+Календарь на главной странице позволяет сортировать события по датам.
+
+<br>
+
+![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230522-212902_Go%20Plan.jpg)
+
+<br>
+
+![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230522-212906_Go%20Plan.jpg)
 
 <br>
 
 ### Создание событий
+
+<br>
 
 В реализации приложения используется Realtime Database от Firebase. Одна из ключевых особеннстей работы с этой базой данных - модель NoSQL. Данные на сервере хранятся в формате json.
 Для обмена данными между клиентом и сервером используются Database References.
 
 <br>
 
+![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230520-091241_Go%20Plan.jpg)
+
 ![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230520-091237_Go%20Plan.jpg)
 
-![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230520-091241_Go%20Plan.jpg)
 
 ### Управление событиями
 
