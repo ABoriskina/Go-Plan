@@ -113,7 +113,7 @@ Firebase Authentication, Firebase Realtime Database, Firebase Cloud Messaging, G
 
 <br>
 
-Просмотреть свои уведомления пользователь может, нажав на иконку звоночка. При желании можно добавить себе событие, которым с Вами поделились.
+Просмотреть свои уведомления пользователь может, нажав на иконку звоночка. При желании можно добавить событие, которым с Вами поделились.
 
 ![Image alt](https://github.com/ABoriskina/Go-Plan/blob/master/pictures/Screenshot_20230520-091437_Go%20Plan.jpg)
 
